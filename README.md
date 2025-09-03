@@ -4,7 +4,7 @@
 
 **Created by Vashu Yadav**
 
-![Modern Portfolio using Next.js and Framer Motion](/.github/images/ "Modern Portfolio using Next.js and Framer Motion")
+![Modern Portfolio using Next.js and Framer Motion](/.github/images/main.png "Modern Portfolio using Next.js and Framer Motion")
 
 
 
