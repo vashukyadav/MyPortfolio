@@ -64,7 +64,7 @@ modern-portfolio/
 
 4. Now app is fully configured 👍 and you can start using this app using `npm run dev` or `yarn dev`.
 
-## :camera: Screenshots:
+<!-- ## :camera: Screenshots:
 
 ![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
 
@@ -72,7 +72,7 @@ modern-portfolio/
 
 ![Showcase Projects](/.github/images/img3.png "Showcase Projects")
 
-![Contact Form](/.github/images/img4.png "Contact Form")
+![Contact Form](/.github/images/img4.png "Contact Form") -->
 
 ## :gear: Tech Stack
 
